@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 123456789
-=======
-system.out.println();
->>>>>>> ebbf021205e81f12e0cec47fd047698cb23b98b6
-
-p26035121
+system.out.println();p26035121yyyyyyy
+yyyyyyy
